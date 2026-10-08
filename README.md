@@ -6,7 +6,7 @@ Complete Python Lab File Series for Diploma to BTech students - Covers BTech 1st
 
 This repository contains 20+ practical programs covering basics to advance, made for Viva and Placement preparation.
 
-### 📁 Repository Structure (20 Files)
+### 📁 Repository Structure (8 Folders | 20+ Programs)
 
 | Folder | Topic | Files | BTech Relevance |
 | :--- | :--- | :--- | :--- |
